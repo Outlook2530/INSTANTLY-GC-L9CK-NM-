@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "1036121358472840";        // Group ka ID
-const LOCKED_GROUP_NAME = "𝑩𝑨𝑯𝑨𝑵 𝑲𝑬 𝑳𝑶𝑫𝟑 =]]💀";     // Locked name
+const LOCKED_GROUP_NAME = "G0D K0 ABUS3 KRKE KHUD K0 KYA SAMJHTE HO =]]🙂🤌";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
