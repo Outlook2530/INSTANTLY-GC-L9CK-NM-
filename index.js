@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "1122847669958355";        // Group ka ID
-const LOCKED_GROUP_NAME = "KUNAL + ANJALI MOTHERCHODO AUKAT BNAO 🙄👈";     // Locked name
+const LOCKED_GROUP_NAME = "आयु की रण्डी मां को घोड़ी बना कर चोदने <3 वाला अर्जुन जाट H3R3 👽👍";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
