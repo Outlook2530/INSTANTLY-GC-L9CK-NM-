@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "1541322477013599";        // Group ka ID
-const LOCKED_GROUP_NAME = "💋 FATIMA RANDI KI CHUDAI GRP 💋";     // Locked name
+const LOCKED_GROUP_NAME = "🔐 आफत की दीदी फातिमा हगनी को बाबरी मस्जिद में चोदूं 🐼";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
