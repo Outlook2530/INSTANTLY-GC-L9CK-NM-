@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID = "3779662075668749";        // Group ka ID
-const LOCKED_GROUP_NAME = "😂 एडविक की दीदी फातिमा हगनी को बाबरी मस्जिद में चोदूं 🐼";     // Locked name
+const LOCKED_GROUP_NAME = "😂 एडविक की दीदी फातिमा रण्डी का चुदाई खाना 🐼";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
